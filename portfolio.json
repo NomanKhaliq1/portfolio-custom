@@ -1,0 +1,16 @@
+{
+  "title": "Portfolio (previous version)",
+  "description": "Earlier personal portfolio built in Next.js with Swiper carousels and React Icons. Superseded by the current site.",
+  "techTags": [
+    "Next.js",
+    "React",
+    "Swiper"
+  ],
+  "source": "github",
+  "category": "Web",
+  "live_url": "",
+  "repo_name": "portfolio-custom",
+  "repo_link": true,
+  "image": "/projects/portfolio-custom.webp",
+  "fetch": false
+}
